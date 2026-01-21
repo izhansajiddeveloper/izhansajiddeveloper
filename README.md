@@ -1,4 +1,4 @@
-![logo](https://github.com/izhansajiddeveloper/izhansajiddeveloper/blob/main/Cobalt%20Blue%20Gradient%20Digital%20Banner%20-%20'IZHAN%20SAJID'.png)
+![logo]([https://github.com/izhansajiddeveloper/izhansajiddeveloper/blob/main/Cobalt%20Blue%20Gradient%20Digital%20Banner%20-%20'IZHAN%20SAJID'.png](https://github.com/izhansajiddeveloper/izhansajiddeveloper/blob/main/Minimalist%20Digital%20Banner%20with%20Curly%20Brackets.png))
 
 
 <h1 align="center">Hi 👋, I'm Izhan Sajid</h1>
